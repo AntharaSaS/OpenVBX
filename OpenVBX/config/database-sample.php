@@ -40,10 +40,10 @@
 $active_group = "default";
 $active_record = TRUE;
 
-$db["default"]["hostname"] = "us-cdbr-iron-east-3.cleardb.net";
-$db["default"]["username"] = "b14b27158864d0";
-$db["default"]["password"] = "b2a5f41c";
-$db["default"]["database"] = "heroku_671865d8b76e589";
+$db["default"]["hostname"] = "us-cdbr-iron-east-03.cleardb.net";
+$db["default"]["username"] = "b45da2fc9f1ea5";
+$db["default"]["password"] = "2b44c609";
+$db["default"]["database"] = "heroku_2d95e0cd0590c6e";
 $db["default"]["dbdriver"] = "mysqli";
 $db["default"]["dbprefix"] = "";
 $db["default"]["pconnect"] = TRUE;
