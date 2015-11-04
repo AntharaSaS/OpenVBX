@@ -40,11 +40,11 @@
 $active_group = "default";
 $active_record = TRUE;
 
-$db["default"]["hostname"] = "localhost:8889";
-$db["default"]["username"] = "root";
-$db["default"]["password"] = "root";
-$db["default"]["database"] = "OpenVBX";
-$db["default"]["dbdriver"] = "mysql";
+$db["default"]["hostname"] = "us-cdbr-iron-east-3.cleardb.net";
+$db["default"]["username"] = "b14b27158864d0";
+$db["default"]["password"] = "b2a5f41c";
+$db["default"]["database"] = "heroku_671865d8b76e589";
+$db["default"]["dbdriver"] = "mysqli";
 $db["default"]["dbprefix"] = "";
 $db["default"]["pconnect"] = TRUE;
 $db["default"]["db_debug"] = TRUE;
